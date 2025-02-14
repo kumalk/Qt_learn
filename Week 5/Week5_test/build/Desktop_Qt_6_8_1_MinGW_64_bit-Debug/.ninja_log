@@ -1,0 +1,51 @@
+# ninja log v6
+8	849	7604619715936836	Week5_test_autogen/timestamp	bca6cf1966e365ca
+8	849	7604619715936836	Week5_test_autogen/mocs_compilation.cpp	bca6cf1966e365ca
+8	849	7604619715936836	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 5/Week5_test/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Week5_test_autogen/timestamp	bca6cf1966e365ca
+8	849	7604619715936836	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 5/Week5_test/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Week5_test_autogen/mocs_compilation.cpp	bca6cf1966e365ca
+858	3801	7604619716798574	CMakeFiles/Week5_test.dir/main.cpp.obj	dec009073ac98caa
+854	3840	7604619716758481	CMakeFiles/Week5_test.dir/Week5_test_autogen/mocs_compilation.cpp.obj	500aa7a7e589d04c
+33	224	7604620029876311	Week5_test_autogen/timestamp	bca6cf1966e365ca
+33	224	7604620029876311	Week5_test_autogen/mocs_compilation.cpp	bca6cf1966e365ca
+33	224	7604620029876311	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 5/Week5_test/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Week5_test_autogen/timestamp	bca6cf1966e365ca
+33	224	7604620029876311	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 5/Week5_test/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Week5_test_autogen/mocs_compilation.cpp	bca6cf1966e365ca
+225	2263	7604620031787648	CMakeFiles/Week5_test.dir/mainwindow.cpp.obj	2bc0653236c0e3cc
+2263	2519	7604620052171139	Week5_test.exe	a460ab52d111b782
+33	215	7604620762936976	Week5_test_autogen/timestamp	bca6cf1966e365ca
+33	215	7604620762936976	Week5_test_autogen/mocs_compilation.cpp	bca6cf1966e365ca
+33	215	7604620762936976	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 5/Week5_test/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Week5_test_autogen/timestamp	bca6cf1966e365ca
+33	215	7604620762936976	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 5/Week5_test/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Week5_test_autogen/mocs_compilation.cpp	bca6cf1966e365ca
+215	2147	7604620764750842	CMakeFiles/Week5_test.dir/mainwindow.cpp.obj	2bc0653236c0e3cc
+2148	2340	7604620784077875	Week5_test.exe	a460ab52d111b782
+32	211	7604621398089579	Week5_test_autogen/timestamp	bca6cf1966e365ca
+32	211	7604621398089579	Week5_test_autogen/mocs_compilation.cpp	bca6cf1966e365ca
+32	211	7604621398089579	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 5/Week5_test/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Week5_test_autogen/timestamp	bca6cf1966e365ca
+32	211	7604621398089579	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 5/Week5_test/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Week5_test_autogen/mocs_compilation.cpp	bca6cf1966e365ca
+33	212	7604621589598446	Week5_test_autogen/timestamp	bca6cf1966e365ca
+33	212	7604621589598446	Week5_test_autogen/mocs_compilation.cpp	bca6cf1966e365ca
+33	212	7604621589598446	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 5/Week5_test/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Week5_test_autogen/timestamp	bca6cf1966e365ca
+33	212	7604621589598446	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 5/Week5_test/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Week5_test_autogen/mocs_compilation.cpp	bca6cf1966e365ca
+213	2191	7604621591402359	CMakeFiles/Week5_test.dir/mainwindow.cpp.obj	2bc0653236c0e3cc
+2191	2375	7604621611170388	Week5_test.exe	a460ab52d111b782
+12	206	7604623175770509	Week5_test_autogen/timestamp	bca6cf1966e365ca
+12	206	7604623175770509	Week5_test_autogen/mocs_compilation.cpp	bca6cf1966e365ca
+12	206	7604623175770509	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 5/Week5_test/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Week5_test_autogen/timestamp	bca6cf1966e365ca
+12	206	7604623175770509	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 5/Week5_test/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Week5_test_autogen/mocs_compilation.cpp	bca6cf1966e365ca
+206	2103	7604623177713489	CMakeFiles/Week5_test.dir/mainwindow.cpp.obj	2bc0653236c0e3cc
+2103	2294	7604623196687972	Week5_test.exe	a460ab52d111b782
+13	785	7604624917642187	Week5_test_autogen/timestamp	bca6cf1966e365ca
+13	785	7604624917642187	Week5_test_autogen/mocs_compilation.cpp	bca6cf1966e365ca
+13	785	7604624917642187	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 5/Week5_test/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Week5_test_autogen/timestamp	bca6cf1966e365ca
+13	785	7604624917642187	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 5/Week5_test/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Week5_test_autogen/mocs_compilation.cpp	bca6cf1966e365ca
+786	3707	7604624918512365	CMakeFiles/Week5_test.dir/Week5_test_autogen/mocs_compilation.cpp.obj	500aa7a7e589d04c
+791	3738	7604624918552443	CMakeFiles/Week5_test.dir/main.cpp.obj	dec009073ac98caa
+796	3758	7604624918612444	CMakeFiles/Week5_test.dir/mainwindow.cpp.obj	2bc0653236c0e3cc
+3759	4037	7604624948239389	Week5_test.exe	a460ab52d111b782
+39	786	7604627033470335	Week5_test_autogen/timestamp	bca6cf1966e365ca
+39	786	7604627033470335	Week5_test_autogen/mocs_compilation.cpp	bca6cf1966e365ca
+39	786	7604627033470335	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 5/Week5_test/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Week5_test_autogen/timestamp	bca6cf1966e365ca
+39	786	7604627033470335	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 5/Week5_test/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Week5_test_autogen/mocs_compilation.cpp	bca6cf1966e365ca
+792	3888	7604627034344383	CMakeFiles/Week5_test.dir/main.cpp.obj	dec009073ac98caa
+788	3903	7604627034294041	CMakeFiles/Week5_test.dir/Week5_test_autogen/mocs_compilation.cpp.obj	500aa7a7e589d04c
+797	3908	7604627034388822	CMakeFiles/Week5_test.dir/mainwindow.cpp.obj	2bc0653236c0e3cc
+3908	4195	7604627065502849	Week5_test.exe	a460ab52d111b782

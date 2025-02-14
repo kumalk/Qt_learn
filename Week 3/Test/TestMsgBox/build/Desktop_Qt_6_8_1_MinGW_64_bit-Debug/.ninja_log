@@ -1,0 +1,68 @@
+# ninja log v6
+9	1154	7592512465801529	TestMsgBox_autogen/timestamp	7c4ad302abe7a5f6
+9	1154	7592512465801529	TestMsgBox_autogen/mocs_compilation.cpp	7c4ad302abe7a5f6
+9	1154	7592512465801529	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Test/TestMsgBox/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestMsgBox_autogen/timestamp	7c4ad302abe7a5f6
+9	1154	7592512465801529	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Test/TestMsgBox/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestMsgBox_autogen/mocs_compilation.cpp	7c4ad302abe7a5f6
+1161	4579	7592512466908873	CMakeFiles/TestMsgBox.dir/TestMsgBox_autogen/mocs_compilation.cpp.obj	677e967331c8f8b9
+1167	4605	7592512466968836	CMakeFiles/TestMsgBox.dir/main.cpp.obj	2f7a6ad648d7cf95
+1175	4639	7592512467056359	CMakeFiles/TestMsgBox.dir/mainwindow.cpp.obj	22d1d2ad465ad7db
+4639	5095	7592512501693422	TestMsgBox.exe	9a6155c3d4b22d39
+86	435	7592513017375606	TestMsgBox_autogen/timestamp	7c4ad302abe7a5f6
+86	435	7592513017375606	TestMsgBox_autogen/mocs_compilation.cpp	7c4ad302abe7a5f6
+86	435	7592513017375606	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Test/TestMsgBox/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestMsgBox_autogen/timestamp	7c4ad302abe7a5f6
+86	435	7592513017375606	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Test/TestMsgBox/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestMsgBox_autogen/mocs_compilation.cpp	7c4ad302abe7a5f6
+435	2749	7592513020865111	CMakeFiles/TestMsgBox.dir/mainwindow.cpp.obj	22d1d2ad465ad7db
+2749	3002	7592513044003369	TestMsgBox.exe	9a6155c3d4b22d39
+97	1042	7592552097733061	TestMsgBox_autogen/timestamp	7c4ad302abe7a5f6
+97	1042	7592552097733061	TestMsgBox_autogen/mocs_compilation.cpp	7c4ad302abe7a5f6
+97	1042	7592552097733061	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Test/TestMsgBox/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestMsgBox_autogen/timestamp	7c4ad302abe7a5f6
+97	1042	7592552097733061	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Test/TestMsgBox/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestMsgBox_autogen/mocs_compilation.cpp	7c4ad302abe7a5f6
+1044	5184	7592552098845692	CMakeFiles/TestMsgBox.dir/TestMsgBox_autogen/mocs_compilation.cpp.obj	677e967331c8f8b9
+1054	5191	7592552098940642	CMakeFiles/TestMsgBox.dir/main.cpp.obj	2f7a6ad648d7cf95
+83	1087	7592552664512222	TestMsgBox_autogen/timestamp	7c4ad302abe7a5f6
+83	1087	7592552664512222	TestMsgBox_autogen/mocs_compilation.cpp	7c4ad302abe7a5f6
+83	1087	7592552664512222	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Test/TestMsgBox/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestMsgBox_autogen/timestamp	7c4ad302abe7a5f6
+83	1087	7592552664512222	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Test/TestMsgBox/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestMsgBox_autogen/mocs_compilation.cpp	7c4ad302abe7a5f6
+1087	4459	7592552665813182	CMakeFiles/TestMsgBox.dir/TestMsgBox_autogen/mocs_compilation.cpp.obj	677e967331c8f8b9
+1093	4510	7592552665873297	CMakeFiles/TestMsgBox.dir/main.cpp.obj	2f7a6ad648d7cf95
+1100	4641	7592552665932339	CMakeFiles/TestMsgBox.dir/mainwindow.cpp.obj	22d1d2ad465ad7db
+46	310	7592553015404493	TestMsgBox_autogen/timestamp	7c4ad302abe7a5f6
+46	310	7592553015404493	TestMsgBox_autogen/mocs_compilation.cpp	7c4ad302abe7a5f6
+46	310	7592553015404493	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Test/TestMsgBox/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestMsgBox_autogen/timestamp	7c4ad302abe7a5f6
+46	310	7592553015404493	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Test/TestMsgBox/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestMsgBox_autogen/mocs_compilation.cpp	7c4ad302abe7a5f6
+310	2869	7592553018053329	CMakeFiles/TestMsgBox.dir/mainwindow.cpp.obj	22d1d2ad465ad7db
+2870	3115	7592553043641488	TestMsgBox.exe	9a6155c3d4b22d39
+43	351	7592557235922813	TestMsgBox_autogen/timestamp	7c4ad302abe7a5f6
+43	351	7592557235922813	TestMsgBox_autogen/mocs_compilation.cpp	7c4ad302abe7a5f6
+43	351	7592557235922813	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Test/TestMsgBox/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestMsgBox_autogen/timestamp	7c4ad302abe7a5f6
+43	351	7592557235922813	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Test/TestMsgBox/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestMsgBox_autogen/mocs_compilation.cpp	7c4ad302abe7a5f6
+352	2815	7592557239006149	CMakeFiles/TestMsgBox.dir/mainwindow.cpp.obj	22d1d2ad465ad7db
+2815	3092	7592557263637136	TestMsgBox.exe	9a6155c3d4b22d39
+65	354	7592558026218260	TestMsgBox_autogen/timestamp	7c4ad302abe7a5f6
+65	354	7592558026218260	TestMsgBox_autogen/mocs_compilation.cpp	7c4ad302abe7a5f6
+65	354	7592558026218260	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Test/TestMsgBox/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestMsgBox_autogen/timestamp	7c4ad302abe7a5f6
+65	354	7592558026218260	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Test/TestMsgBox/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestMsgBox_autogen/mocs_compilation.cpp	7c4ad302abe7a5f6
+355	2841	7592558029118786	CMakeFiles/TestMsgBox.dir/mainwindow.cpp.obj	22d1d2ad465ad7db
+2841	3112	7592558053975039	TestMsgBox.exe	9a6155c3d4b22d39
+154	600	7597911881725389	TestMsgBox_autogen/timestamp	7c4ad302abe7a5f6
+154	600	7597911881725389	TestMsgBox_autogen/mocs_compilation.cpp	7c4ad302abe7a5f6
+154	600	7597911881725389	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Test/TestMsgBox/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestMsgBox_autogen/timestamp	7c4ad302abe7a5f6
+154	600	7597911881725389	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Test/TestMsgBox/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestMsgBox_autogen/mocs_compilation.cpp	7c4ad302abe7a5f6
+602	3481	7597911886205371	CMakeFiles/TestMsgBox.dir/mainwindow.cpp.obj	22d1d2ad465ad7db
+3482	4054	7597911915014850	TestMsgBox.exe	9a6155c3d4b22d39
+56	234	7597913022819127	TestMsgBox_autogen/timestamp	7c4ad302abe7a5f6
+56	234	7597913022819127	TestMsgBox_autogen/mocs_compilation.cpp	7c4ad302abe7a5f6
+56	234	7597913022819127	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Test/TestMsgBox/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestMsgBox_autogen/timestamp	7c4ad302abe7a5f6
+56	234	7597913022819127	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Test/TestMsgBox/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestMsgBox_autogen/mocs_compilation.cpp	7c4ad302abe7a5f6
+115	1400	7597937996194144	TestMsgBox_autogen/timestamp	7c4ad302abe7a5f6
+115	1400	7597937996194144	TestMsgBox_autogen/mocs_compilation.cpp	7c4ad302abe7a5f6
+115	1400	7597937996194144	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Test/TestMsgBox/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestMsgBox_autogen/timestamp	7c4ad302abe7a5f6
+115	1400	7597937996194144	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Test/TestMsgBox/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestMsgBox_autogen/mocs_compilation.cpp	7c4ad302abe7a5f6
+1416	17871	7597937997608251	CMakeFiles/TestMsgBox.dir/mainwindow.cpp.obj	22d1d2ad465ad7db
+1410	17872	7597937997551979	CMakeFiles/TestMsgBox.dir/main.cpp.obj	2f7a6ad648d7cf95
+1402	17872	7597937997467318	CMakeFiles/TestMsgBox.dir/TestMsgBox_autogen/mocs_compilation.cpp.obj	677e967331c8f8b9
+17872	18679	7597938162172035	TestMsgBox.exe	9a6155c3d4b22d39
+42	222	7597939310027553	TestMsgBox_autogen/timestamp	7c4ad302abe7a5f6
+42	222	7597939310027553	TestMsgBox_autogen/mocs_compilation.cpp	7c4ad302abe7a5f6
+42	222	7597939310027553	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Test/TestMsgBox/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestMsgBox_autogen/timestamp	7c4ad302abe7a5f6
+42	222	7597939310027553	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Test/TestMsgBox/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestMsgBox_autogen/mocs_compilation.cpp	7c4ad302abe7a5f6

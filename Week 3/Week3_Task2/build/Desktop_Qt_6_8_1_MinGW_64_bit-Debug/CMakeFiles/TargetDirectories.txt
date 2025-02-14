@@ -1,0 +1,9 @@
+E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Week3_Task2/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/Week3_Task2.dir
+E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Week3_Task2/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Week3_Task2/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Week3_Task2/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Week3_Task2/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Week3_Task2/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Week3_Task2/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Week3_Task2/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/Week3_Task2_autogen_timestamp_deps.dir
+E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Week3_Task2/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/Week3_Task2_autogen.dir

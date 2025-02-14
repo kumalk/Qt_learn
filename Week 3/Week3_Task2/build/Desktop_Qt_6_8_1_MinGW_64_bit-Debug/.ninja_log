@@ -1,0 +1,49 @@
+# ninja log v6
+14	1107	7597977657503119	Week3_Task2_autogen/timestamp	8f9d67a96c5725aa
+14	1107	7597977657503119	Week3_Task2_autogen/mocs_compilation.cpp	8f9d67a96c5725aa
+14	1107	7597977657503119	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Week3_Task2/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Week3_Task2_autogen/timestamp	8f9d67a96c5725aa
+14	1107	7597977657503119	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Week3_Task2/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Week3_Task2_autogen/mocs_compilation.cpp	8f9d67a96c5725aa
+1111	4142	7597977658385891	CMakeFiles/Week3_Task2.dir/Week3_Task2_autogen/mocs_compilation.cpp.obj	9908db09babffe18
+1115	4167	7597977658435727	CMakeFiles/Week3_Task2.dir/main.cpp.obj	809d6d28fd963dbd
+33	227	7597977966126884	Week3_Task2_autogen/timestamp	8f9d67a96c5725aa
+33	227	7597977966126884	Week3_Task2_autogen/mocs_compilation.cpp	8f9d67a96c5725aa
+33	227	7597977966126884	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Week3_Task2/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Week3_Task2_autogen/timestamp	8f9d67a96c5725aa
+33	227	7597977966126884	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Week3_Task2/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Week3_Task2_autogen/mocs_compilation.cpp	8f9d67a96c5725aa
+48	256	7597978201917612	Week3_Task2_autogen/timestamp	8f9d67a96c5725aa
+48	256	7597978201917612	Week3_Task2_autogen/mocs_compilation.cpp	8f9d67a96c5725aa
+48	256	7597978201917612	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Week3_Task2/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Week3_Task2_autogen/timestamp	8f9d67a96c5725aa
+48	256	7597978201917612	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Week3_Task2/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Week3_Task2_autogen/mocs_compilation.cpp	8f9d67a96c5725aa
+257	3641	7597978204004230	CMakeFiles/Week3_Task2.dir/mainwindow.cpp.obj	93983330e433ec52
+3642	3949	7597978237846448	Week3_Task2.exe	7f5cc7ed267919eb
+35	199	7597980164360144	Week3_Task2_autogen/timestamp	8f9d67a96c5725aa
+35	199	7597980164360144	Week3_Task2_autogen/mocs_compilation.cpp	8f9d67a96c5725aa
+35	199	7597980164360144	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Week3_Task2/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Week3_Task2_autogen/timestamp	8f9d67a96c5725aa
+35	199	7597980164360144	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Week3_Task2/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Week3_Task2_autogen/mocs_compilation.cpp	8f9d67a96c5725aa
+33	217	7597980410818535	Week3_Task2_autogen/timestamp	8f9d67a96c5725aa
+33	217	7597980410818535	Week3_Task2_autogen/mocs_compilation.cpp	8f9d67a96c5725aa
+33	217	7597980410818535	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Week3_Task2/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Week3_Task2_autogen/timestamp	8f9d67a96c5725aa
+33	217	7597980410818535	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Week3_Task2/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Week3_Task2_autogen/mocs_compilation.cpp	8f9d67a96c5725aa
+49	258	7597982459654806	Week3_Task2_autogen/timestamp	8f9d67a96c5725aa
+49	258	7597982459654806	Week3_Task2_autogen/mocs_compilation.cpp	8f9d67a96c5725aa
+49	258	7597982459654806	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Week3_Task2/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Week3_Task2_autogen/timestamp	8f9d67a96c5725aa
+49	258	7597982459654806	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Week3_Task2/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Week3_Task2_autogen/mocs_compilation.cpp	8f9d67a96c5725aa
+259	2633	7597982461755825	CMakeFiles/Week3_Task2.dir/mainwindow.cpp.obj	93983330e433ec52
+2633	2864	7597982485480239	Week3_Task2.exe	7f5cc7ed267919eb
+253	544	7597989063372680	Week3_Task2_autogen/timestamp	8f9d67a96c5725aa
+253	544	7597989063372680	Week3_Task2_autogen/mocs_compilation.cpp	8f9d67a96c5725aa
+253	544	7597989063372680	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Week3_Task2/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Week3_Task2_autogen/timestamp	8f9d67a96c5725aa
+253	544	7597989063372680	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Week3_Task2/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Week3_Task2_autogen/mocs_compilation.cpp	8f9d67a96c5725aa
+545	6975	7597989066291224	CMakeFiles/Week3_Task2.dir/mainwindow.cpp.obj	93983330e433ec52
+6975	7573	7597989130599989	Week3_Task2.exe	7f5cc7ed267919eb
+36	202	7597989445812966	Week3_Task2_autogen/timestamp	8f9d67a96c5725aa
+36	202	7597989445812966	Week3_Task2_autogen/mocs_compilation.cpp	8f9d67a96c5725aa
+36	202	7597989445812966	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Week3_Task2/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Week3_Task2_autogen/timestamp	8f9d67a96c5725aa
+36	202	7597989445812966	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Week3_Task2/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Week3_Task2_autogen/mocs_compilation.cpp	8f9d67a96c5725aa
+203	2336	7597989447484092	CMakeFiles/Week3_Task2.dir/mainwindow.cpp.obj	93983330e433ec52
+2336	2546	7597989468817665	Week3_Task2.exe	7f5cc7ed267919eb
+37	252	7597989574362264	Week3_Task2_autogen/timestamp	8f9d67a96c5725aa
+37	252	7597989574362264	Week3_Task2_autogen/mocs_compilation.cpp	8f9d67a96c5725aa
+37	252	7597989574362264	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Week3_Task2/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Week3_Task2_autogen/timestamp	8f9d67a96c5725aa
+37	252	7597989574362264	E:/TAMK Studies/Semester 02/Graphical User Interface/Week 3/Week3_Task2/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Week3_Task2_autogen/mocs_compilation.cpp	8f9d67a96c5725aa
+253	2261	7597989576522650	CMakeFiles/Week3_Task2.dir/mainwindow.cpp.obj	93983330e433ec52
+2261	2455	7597989596589003	Week3_Task2.exe	7f5cc7ed267919eb

@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ffc098ac45ec65c2cfbe.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Week5_test",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Week5_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Week5_test-Debug-59b75502394b26b2162c.json",
+					"name" : "Week5_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Week5_test_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Week5_test_autogen-Debug-6d416f6c903d44f44ff1.json",
+					"name" : "Week5_test_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Week5_test_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Week5_test_autogen_timestamp_deps-Debug-4b3e2466a9d89e02edc1.json",
+					"name" : "Week5_test_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/TAMK Studies/Semester 02/Graphical User Interface/Week 5/Week5_test/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug",
+		"source" : "E:/TAMK Studies/Semester 02/Graphical User Interface/Week 5/Week5_test"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
